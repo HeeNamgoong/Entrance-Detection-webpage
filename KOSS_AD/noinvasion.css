@@ -143,3 +143,15 @@ h1 {
       transform: translateY(0vh) translateX(110vw) scale(0.45);
     }
   }
+
+
+
+  a {
+    font-size: x-large;
+    color: white;
+    text-decoration: none;
+    transform: translate(250%, -500%);;
+    
+    border: 2px solid white;
+    padding: 10px 30px;
+  }
